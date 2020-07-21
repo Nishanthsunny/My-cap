@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	int i,n;
-	cout<<"Enter the number of elements you want to enter ";
+	cout<<"Type the number of elements you want to enter ";
 	cin>>n;
 	int a[n];
 	cout<<"\nEnter elements : ";
